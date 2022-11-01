@@ -1,1 +1,3 @@
 Hello, man!
+
+Changes made in the second branch
